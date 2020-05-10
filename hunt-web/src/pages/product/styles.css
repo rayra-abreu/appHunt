@@ -1,0 +1,18 @@
+.product-info{
+    max-width: 43.75rem;
+    margin: 1.25rem auto 0;
+    padding: 1.25rem;
+    border-radius: 0.313rem;
+    border: 0.063rem solid #DDD;
+    background: #FFF;
+}
+
+.product-info P{
+    color: #666;
+    line-height: 1.5rem;
+    margin-top: 0.313rem;
+}
+
+.product-info p a{
+    color: #069;
+}
